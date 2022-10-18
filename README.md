@@ -8,7 +8,7 @@ I'm **Aazim Parwaz**, currently a final year computer science student at NIT Sri
 -------
 
 [![Aazim's LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aazim-parwaz-342055207/)
-[![Aazim's Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codeparwaz@gmail.com?subject=Hey%20Saalik,%20you%20are%20awesome)
+[![Aazim's Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codeparwaz@gmail.com?subject=Hey%20Aazim,%20you%20are%20Great)
 
 
 GitHub Stats
